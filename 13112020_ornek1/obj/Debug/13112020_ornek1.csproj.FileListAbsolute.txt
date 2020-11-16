@@ -1,0 +1,10 @@
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\13112020_ornek1\13112020_ornek1\bin\Debug\13112020_ornek1.exe.config
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\13112020_ornek1\13112020_ornek1\bin\Debug\13112020_ornek1.exe
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\13112020_ornek1\13112020_ornek1\bin\Debug\13112020_ornek1.pdb
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\13112020_ornek1\13112020_ornek1\obj\Debug\13112020_ornek1.csprojAssemblyReference.cache
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\13112020_ornek1\13112020_ornek1\obj\Debug\_13112020_ornek1.Form1.resources
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\13112020_ornek1\13112020_ornek1\obj\Debug\_13112020_ornek1.Properties.Resources.resources
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\13112020_ornek1\13112020_ornek1\obj\Debug\13112020_ornek1.csproj.GenerateResource.cache
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\13112020_ornek1\13112020_ornek1\obj\Debug\13112020_ornek1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\13112020_ornek1\13112020_ornek1\obj\Debug\13112020_ornek1.exe
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\13112020_ornek1\13112020_ornek1\obj\Debug\13112020_ornek1.pdb
